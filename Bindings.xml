@@ -1,0 +1,21 @@
+<Bindings>
+	<Binding name="CLICK BleakActionButton1:LeftButton" header="BLEAK" />
+	<Binding name="CLICK BleakActionButton2:LeftButton" />
+	<Binding name="CLICK BleakActionButton3:LeftButton" />
+	<Binding name="CLICK BleakActionButton4:LeftButton" />
+	<Binding name="CLICK BleakActionButton5:LeftButton" />
+	<Binding name="CLICK BleakActionButton6:LeftButton" />
+	<Binding name="CLICK BleakActionButton7:LeftButton" />
+	<Binding name="CLICK BleakActionButton8:LeftButton" />
+	
+	<Binding name="CLICK BleakStanceButton1:LeftButton" header="BLEAK_BLANK" />
+	<Binding name="CLICK BleakStanceButton2:LeftButton" />
+	<Binding name="CLICK BleakStanceButton3:LeftButton" />
+	<Binding name="CLICK BleakStanceButton4:LeftButton" />
+	<Binding name="CLICK BleakStanceButton5:LeftButton" />
+	<Binding name="CLICK BleakStanceButton6:LeftButton" />
+	<Binding name="CLICK BleakStanceButton7:LeftButton" />
+	<Binding name="CLICK BleakStanceButton8:LeftButton" />
+	<Binding name="CLICK BleakStanceButton9:LeftButton" />
+	<Binding name="CLICK BleakStanceButton10:LeftButton" />
+</Bindings>

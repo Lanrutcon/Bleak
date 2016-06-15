@@ -1,0 +1,10 @@
+## Interface: 40300
+## Title: Bleak
+## Author: Lanrutcon
+## Notes: SkyActionBar
+## Version: 1.0
+## SavedVariables: BleakSV
+## DefaultState: enabled
+
+Bleak.lua
+Bindings.xml
